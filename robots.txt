@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shivacaterers.netlify.app/sitemap.xml
