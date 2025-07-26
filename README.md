@@ -18,9 +18,7 @@ This is the website for **Shiva Caterers**, a trusted catering service based in 
 ## 📋 Features
 
 - 🥘 Services section listing catering offerings
-- 🖼️ Gallery to showcase past events and food presentations
 - 📞 Contact section with clickable phone and WhatsApp links
-- 📍 Location and area coverage information
 - 📱 Fully mobile responsive and fast loading
 - 🔍 Basic SEO implementation for better local search results
 
@@ -37,4 +35,5 @@ The site includes fundamental SEO best practices:
 These help target searches like:
 - *Best catering services in Athani*
 - *Wedding caterers Athani*
+
 
