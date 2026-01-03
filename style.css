@@ -36,3 +36,16 @@ body {
   );
 }
 
+.gallery-item {
+  transition: all 0.3s ease;
+}
+
+.gallery-item:hover .gallery-overlay {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.gallery-overlay {
+  transition: all 0.3s ease;
+  transform: translateY(10px);
+}
